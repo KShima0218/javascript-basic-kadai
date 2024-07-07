@@ -1,0 +1,27 @@
+body {
+    font-size: 8em;
+    text-align: center;
+}
+
+.count {
+    margin: 0 auto;
+    font-weight: bold;
+    color: #888;
+}
+
+.wrap {
+    background-color: #666;
+    padding: 80px 40px;
+}
+
+.typed {
+    color:lightgreen;
+}
+
+.untyped {
+    color: whitesmoke;
+}
+
+.misstyped {
+    background-color: red;
+}
